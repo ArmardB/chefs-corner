@@ -1,4 +1,4 @@
-![Alt text](/relative/path/to/chefs-corner.png?raw=true "Home Page Screenshot")
+![Alt text](http://i1230.photobucket.com/albums/ee500/designguy09/chefs-corner.png "Optional title")
 
 This sample Rails application allows users to upload their favorite images and recipes
 
