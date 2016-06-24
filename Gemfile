@@ -3,7 +3,9 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
-
+gem 'haml', '~>4.0.5'
+gem 'simple_form', '~> 3.0.2'
+gem 'bootstrap-sass', '~> 3.2.0.2'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
