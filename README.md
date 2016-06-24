@@ -1,3 +1,5 @@
+![Alt text](/relative/path/to/chefs-corner.jpg?raw=true "Home Page Screenshot")
+
 This sample Rails application allows users to upload their favorite images and recipes
 
 * Utilized bootstrap for styling
